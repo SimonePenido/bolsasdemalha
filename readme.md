@@ -1,6 +1,9 @@
 ## Bolsas de Malha
 
-Dolantina Artesanatos
+# Dolantina Artesanatos
+
+Deploy: 
+https://dolantinaartesanatos.netlify.app/
 
 CREDITS & REFERENCES
 
