@@ -15,7 +15,6 @@ O site foi desenvolvido com foco em **design responsivo**, utilizando tecnologia
 📌 **Deploy online**:  
 🔗 [dolantinaartesanatos.netlify.app](https://dolantinaartesanatos.netlify.app/)
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/SEU-ID-UNICO/deploy-status)](https://app.netlify.com/sites/dolantinaartesanatos/deploys)
 
 
 ## 📸 Captura de Tela
